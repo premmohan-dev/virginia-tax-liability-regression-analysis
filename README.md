@@ -20,6 +20,7 @@ This analysis uses data from:
 
 Source: IRS, Statistics of Income (SOI) Division, Individual Master File System, February 2024.
 
+
 Each record represents a combination of a Virginia ZIP code and adjusted gross income (AGI) category. The remaining fields provide tax-related measures for that group, including the number of returns, electronically filed returns, adjusted gross income, taxable income, and total tax liability.
 
 > **Note:** Monetary values in the dataset are reported in thousands of dollars.
