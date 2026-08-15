@@ -18,15 +18,13 @@ This analysis uses data from:
 
 **VIRGINIA Individual Income Tax Returns: Selected Income and Tax Items by State, ZIP Code, and Size of Adjusted Gross Income, Tax Year 2021**
 
-Source:
-
-IRS, Statistics of Income (SOI) Division, Individual Master File System, February 2024.
+Source: IRS, Statistics of Income (SOI) Division, Individual Master File System, February 2024.
 
 Link: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2021-zip-code-data-soi-0
 
 Each record represents a combination of a Virginia ZIP code and adjusted gross income (AGI) category. The remaining fields provide tax-related measures for that group, including the number of returns, electronically filed returns, adjusted gross income, taxable income, and total tax liability.
 
-**Note:** Monetary values in the dataset are reported in thousands of dollars.
+> **Note:** Monetary values in the dataset are reported in thousands of dollars.
 
 A cleaned version of the dataset was created for analysis and includes the following fields:
 
