@@ -1,6 +1,6 @@
 -- Research Question 1
 -- How does total tax liability vary across income groups in Virginia?
--- Purpose: Groups records by Size of Adjusted Gross Income and calculates average and total tax liability for each income group.
+-- Purpose: Compare average and total tax liability across income groups.
 
 SELECT
     [Size of Adjusted Gross Income],
