@@ -63,6 +63,14 @@ Electronic filing rates remained consistently high across all Size of Adjusted G
 
 Average adjusted gross income (AGI) and average tax liability both increased across the Size of Adjusted Gross Income categories. The $200,000 or more income group had the highest average AGI at $471,769.02 and the highest average tax liability at $103,950.25. Meanwhile, the $1 under $25,000 category had the lowest average AGI at $34,434.59 and the lowest average tax liability at $1,094.93. Overall, the results suggest a strong positive relationship between AGI and total tax liability across Virginia ZIP codes.
 
+## Research Question 4
+
+### How well does the regression model explain variation in total tax liability?
+
+### Key Findings
+
+The linear regression model produced an R² value of 0.9415, meaning that approximately 94.15% of the variation in total tax liability is explained by adjusted gross income (AGI). The model also produced a positive slope of 0.1873, showing that higher AGI values are associated with higher tax liability. These results indicate that AGI is a highly effective predictor of total tax liability within the Virginia ZIP code data.
+
 ## Methods
 
 - Data cleaning and preparation
