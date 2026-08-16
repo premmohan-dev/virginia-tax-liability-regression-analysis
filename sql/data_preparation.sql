@@ -1,5 +1,5 @@
 -- Data Preparation
--- Purpose: Removes fully blank separator rows from the imported dataset.
+-- Purpose: Removes fully blank separator rows from the cleaned dataset.
 
 SELECT
     *
