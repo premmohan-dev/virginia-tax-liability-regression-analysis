@@ -47,6 +47,14 @@ The cleaned dataset used in this analysis includes:
 
 Average tax liability increased across each Size of Adjusted Gross Income category. The $200,000 or more income group reported the highest average tax liability at approximately $103,950.25, while the $1 under $25,000 income group reported the lowest at approximately $1,094.93. As income levels increased, average tax liability increased as well, indicating a strong positive relationship between income level and tax liability across Virginia ZIP codes.
 
+## Research Question 2
+
+### How do electronic filing rates vary across income groups and ZIP codes?
+
+## Key Findings
+
+Electronic filing rates remained consistently high across all Size of Adjusted Gross Income categories, ranging from 92.28% to 94.37%. The $25,000 under $50,000 income group reported the highest electronic filing rate at 94.37%, while the $1 under $25,000 category reported the lowest at 92.28%. Overall, more than 90% of returns were filed electronically across every income group, suggesting widespread adoption of electronic filing regardless of income level.
+
 ## Methods
 
 - Data cleaning and preparation
