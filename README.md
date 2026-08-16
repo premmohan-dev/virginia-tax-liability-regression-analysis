@@ -51,7 +51,7 @@ Average tax liability increased across each Size of Adjusted Gross Income catego
 
 ### How do electronic filing rates vary across income groups and ZIP codes?
 
-## Key Findings
+### Key Findings
 
 Electronic filing rates remained consistently high across all Size of Adjusted Gross Income categories, ranging from 92.28% to 94.37%. The $25,000 under $50,000 income group reported the highest electronic filing rate at 94.37%, while the $1 under $25,000 category reported the lowest at 92.28%. Overall, more than 90% of returns were filed electronically across every income group, suggesting widespread adoption of electronic filing regardless of income.
 
@@ -59,7 +59,7 @@ Electronic filing rates remained consistently high across all Size of Adjusted G
 
 ### How does adjusted gross income (AGI) affect total tax liability?
 
-## Key Findings
+### Key Findings
 
 Average adjusted gross income (AGI) and average tax liability both increased across the Size of Adjusted Gross Income categories. The $200,000 or more income group had the highest average AGI at $471,769.02 and the highest average tax liability at $103,950.25. Meanwhile, the $1 under $25,000 category had the lowest average AGI at $34,434.59 and the lowest average tax liability at $1,094.93. Overall, the results suggest a strong positive relationship between AGI and total tax liability across Virginia ZIP codes.
 
