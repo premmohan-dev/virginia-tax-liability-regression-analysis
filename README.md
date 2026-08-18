@@ -63,6 +63,15 @@ Electronic filing rates remained consistently high across all Size of Adjusted G
 
 ### How does adjusted gross income (AGI) affect total tax liability?
 
+| Income Group | Average AGI | Average Tax Liability |
+|-------------|------------:|----------------------:|
+| 1-25K | $34,434.59 | $1,094.93 |
+| 25K-50K | $81,537.05 | $4,975.83 |
+| 50K-75K | $88,708.61 | $7,601.66 |
+| 75K-100K | $85,417.15 | $8,692.86 |
+| 100K-200K | $256,254.74 | $32,591.72 |
+| 200K+ | $471,769.02 | $103,950.25 |
+
 ### Key Findings
 
 Average adjusted gross income (AGI) and average tax liability both increased across the Size of Adjusted Gross Income categories. The $200,000 or more income group had the highest average AGI at $471,769.02 and the highest average tax liability at $103,950.25. Meanwhile, the $1 under $25,000 category had the lowest average AGI at $34,434.59 and the lowest average tax liability at $1,094.93. Overall, the results suggest a strong positive relationship between AGI and total tax liability across Virginia ZIP codes.
