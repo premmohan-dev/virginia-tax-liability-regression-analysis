@@ -43,7 +43,7 @@ The cleaned dataset used in this analysis includes:
 
 ### How does total tax liability vary across income groups in Virginia?
 
-<img width="989" height="590" alt="RQ1_TaxLiabilityByIncomeGroup" src="https://github.com/user-attachments/assets/a0bae78b-164c-440e-8b93-abc9278c1e44" />
+<img width="989" height="590" alt="RQ1_TaxLiabilityByIncomeGroup" src="https://github.com/user-attachments/assets/3b109168-509a-460e-ba3c-7156aeca3486" />
 
 ### Key Findings
 
