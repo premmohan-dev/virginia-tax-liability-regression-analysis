@@ -43,6 +43,8 @@ The cleaned dataset used in this analysis includes:
 
 ### How does total tax liability vary across income groups in Virginia?
 
+<img width="989" height="590" alt="RQ1_TaxLiabilityByIncomeGroup" src="https://github.com/user-attachments/assets/a0bae78b-164c-440e-8b93-abc9278c1e44" />
+
 ### Key Findings
 
 Average tax liability increased across each Size of Adjusted Gross Income category. The $200,000 or more income group reported the highest average tax liability at approximately $103,950.25, while the $1 under $25,000 income group reported the lowest at approximately $1,094.93. As income levels increased, average tax liability increased as well, indicating a strong positive relationship between income level and tax liability across Virginia ZIP codes.
