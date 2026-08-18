@@ -32,3 +32,37 @@ r_squared = model.score(X, y)
 print("Intercept:", model.intercept_)
 print("Slope:", model.coef_[0])
 print("R-squared:", r_squared)
+
+# Regression Visualization
+import matplotlib.pyplot as plt
+
+# Predicted values
+y_pred = model.predict(X)
+
+# Create chart
+plt.figure(figsize=(8, 6))
+
+plt.scatter(
+    zip_totals["Adjusted Gross Income (AGI)"],
+    y,
+    alpha=0.6,
+    label="ZIP Codes"
+)
+
+plt.plot(
+    zip_totals["Adjusted Gross Income (AGI)"],
+    y_pred,
+    color="red",
+    linewidth=2,
+    label="Regression Line"
+)
+
+plt.title(
+    f"Adjusted Gross Income vs Total Tax Liability\nR² = {r_squared:.4f}"
+)
+
+plt.xlabel("Adjusted Gross Income (AGI)")
+plt.ylabel("Total Tax Liability (Amount)")
+plt.legend()
+
+plt.show()
