@@ -67,6 +67,8 @@ Average adjusted gross income (AGI) and average tax liability both increased acr
 
 ### How well does the regression model explain variation in total tax liability?
 
+<img width="689" height="556" alt="RQ4_AGI_Regression_Model" src="https://github.com/user-attachments/assets/e031d844-72bc-4a97-8635-125dfba4ec60" />
+
 ### Key Findings
 
 The linear regression model produced an R² value of 0.9415, meaning that approximately 94.15% of the variation in total tax liability is explained by adjusted gross income (AGI). The model also produced a positive slope of 0.1873, showing that higher AGI values are associated with higher tax liability. These results indicate that AGI is a highly effective predictor of total tax liability within the Virginia ZIP code data.
