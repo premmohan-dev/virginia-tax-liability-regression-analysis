@@ -53,6 +53,8 @@ Average tax liability increased across each Size of Adjusted Gross Income catego
 
 ### How do electronic filing rates vary across income groups and ZIP codes?
 
+<img width="989" height="590" alt="RQ2_EFileRate" src="https://github.com/user-attachments/assets/1c766b0f-8450-435f-9916-bb5bd88b0228" />
+
 ### Key Findings
 
 Electronic filing rates remained consistently high across all Size of Adjusted Gross Income categories, ranging from 92.28% to 94.37%. The $25,000 under $50,000 income group reported the highest electronic filing rate at 94.37%, while the $1 under $25,000 category reported the lowest at 92.28%. Overall, more than 90% of returns were filed electronically across every income group, suggesting widespread adoption of electronic filing regardless of income.
