@@ -103,3 +103,19 @@ The linear regression model produced an R² value of 0.9415, meaning that approx
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## SQL Analysis
+
+The SQL queries included in this analysis were developed and tested in Microsoft Access. These queries were used to clean the dataset, calculate descriptive statistics, compare tax liability across income groups, evaluate electronic filing rates, and examine the relationship between adjusted gross income (AGI) and total tax liability. SQL served as the primary tool for preparing and summarizing the data prior to visualization and regression modeling.
+
+## How to Use This Project
+
+1. Review the original IRS Statistics of Income (SOI) dataset (`Virginia Tax Data 2021 Raw.xlsx`) included in the `data` folder.
+2. Use the cleaned `Virginia Tax Data 2021 Cleaned.xlsx` dataset for analysis.
+3. Import the dataset into Microsoft Access and run the SQL queries in the `sql` folder to perform data preparation and answer Research Questions 1 through 3.
+4. Run the Python files in the `python` folder to generate visualizations and perform the regression analysis for Research Question 4.
+5. Review the charts, table, and findings to understand how income levels, electronic filing rates, and tax liability vary across Virginia ZIP codes and income groups.
+
+## Conclusion
+
+Overall, this analysis found that tax liability generally increased as income levels increased across Virginia ZIP codes and income groups. Electronic filing rates remained consistently high across all income categories, indicating widespread adoption of electronic filing regardless of income level. The regression analysis produced an R² value of 0.9415, showing that adjusted gross income (AGI) is a strong predictor of total tax liability. Together, these findings highlight the close relationship between income and tax liability within the Virginia tax return data.
